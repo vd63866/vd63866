@@ -1,3 +1,5 @@
+![Vaibhav Dubey — Linux, Networking and Cloud](https://raw.githubusercontent.com/vd63866/vd63866/main/assets/profile-banner.svg)
+
 # Hi, I'm Vaibhav Dubey 👋
 
 ### B.Tech Computer Science Student | Aspiring Network Engineer & Linux Systems Administrator
