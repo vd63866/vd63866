@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360" role="img" aria-labelledby="title desc">
+  <title id="title">Vaibhav Dubey — Linux, Networking and Cloud</title>
+  <desc id="desc">A dark navy technical banner with a Linux terminal, connected network nodes, server racks and the words Build, Automate, Innovate.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06101f"/><stop offset=".55" stop-color="#0a1b32"/><stop offset="1" stop-color="#10102b"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#3b82f6"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="halo"><stop offset="0" stop-color="#0ea5e9" stop-opacity=".22"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#5b83b5" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1500" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1500" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1130" cy="165" r="280" fill="url(#halo)"/>
+  <circle cx="1130" cy="165" r="140" fill="none" stroke="#1d4ed8" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="1130" cy="165" r="104" fill="none" stroke="#22d3ee" stroke-opacity=".30" stroke-dasharray="5 10" stroke-width="1.5"/>
+  <g stroke="#38bdf8" stroke-opacity=".48" fill="none" stroke-width="2">
+    <path d="M1000 70L1080 120L1185 75L1275 130L1380 88"/>
+    <path d="M985 220L1070 175L1160 245L1260 195L1375 250"/>
+    <path d="M1080 120L1070 175M1185 75L1160 245M1275 130L1260 195M1000 70L985 220"/>
+    <path d="M1080 120L1160 245M1185 75L1275 130M1260 195L1380 88"/>
+  </g>
+  <g fill="#67e8f9" stroke="#0c4a6e" stroke-width="3">
+    <circle cx="1000" cy="70" r="7"/><circle cx="1080" cy="120" r="8"/><circle cx="1185" cy="75" r="7"/>
+    <circle cx="1275" cy="130" r="9"/><circle cx="1380" cy="88" r="7"/><circle cx="985" cy="220" r="7"/>
+    <circle cx="1070" cy="175" r="8"/><circle cx="1160" cy="245" r="8"/><circle cx="1260" cy="195" r="7"/><circle cx="1375" cy="250" r="8"/>
+  </g>
+  <g transform="translate(72 73)">
+    <rect x="0" y="0" width="470" height="208" rx="16" fill="#071322" stroke="#28516f" stroke-width="2"/>
+    <path d="M0 42H470" stroke="#28516f" stroke-width="2"/>
+    <circle cx="25" cy="21" r="6" fill="#fb7185"/><circle cx="47" cy="21" r="6" fill="#fbbf24"/><circle cx="69" cy="21" r="6" fill="#34d399"/>
+    <text x="95" y="26" fill="#8da9c5" font-family="monospace" font-size="13">vaibhav@manjaro: ~</text>
+    <text x="28" y="82" fill="#67e8f9" font-family="monospace" font-size="19">$ whoami</text>
+    <text x="28" y="111" fill="#e2e8f0" font-family="monospace" font-size="18">linux • networking • cloud</text>
+    <text x="28" y="150" fill="#67e8f9" font-family="monospace" font-size="19">$ systemctl status learning</text>
+    <text x="28" y="180" fill="#4ade80" font-family="monospace" font-size="16">● active (building skills)</text>
+  </g>
+  <g transform="translate(598 78)">
+    <text x="0" y="0" fill="#67e8f9" font-family="monospace" font-size="17" letter-spacing="4">HELLO, WORLD — I'M VAIBHAV</text>
+    <text x="0" y="76" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="1">BUILD. AUTOMATE.</text>
+    <text x="0" y="132" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="1">INNOVATE.</text>
+    <rect x="0" y="157" width="440" height="4" rx="2" fill="url(#glow)"/>
+    <text x="0" y="198" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2">LINUX  /  NETWORKING  /  CLOUD</text>
+    <text x="0" y="232" fill="#7dd3fc" font-family="monospace" font-size="15">B.Tech CSE • HANDS-ON SYSTEMS PROJECTS</text>
+  </g>
+  <g transform="translate(1370 108)">
+    <rect x="0" y="0" width="76" height="46" rx="8" fill="#0b2038" stroke="#38bdf8" stroke-width="2"/>
+    <rect x="0" y="60" width="76" height="46" rx="8" fill="#0b2038" stroke="#818cf8" stroke-width="2"/>
+    <rect x="0" y="120" width="76" height="46" rx="8" fill="#0b2038" stroke="#22d3ee" stroke-width="2"/>
+    <g fill="#67e8f9"><circle cx="14" cy="15" r="4"/><circle cx="14" cy="75" r="4"/><circle cx="14" cy="135" r="4"/></g>
+    <g stroke="#64748b" stroke-width="3" stroke-linecap="round"><path d="M28 15H62M28 75H62M28 135H62"/></g>
+  </g>
+  <text x="72" y="326" fill="#64748b" font-family="monospace" font-size="13" letter-spacing="2">VD63866  //  OPEN SOURCE • SYSTEMS • INFRASTRUCTURE</text>
+  <path d="M1170 326H1428" stroke="url(#glow)" stroke-width="3" stroke-linecap="round"/>
+  <rect x="1" y="1" width="1498" height="358" rx="23" fill="none" stroke="#38bdf8" stroke-opacity=".25" stroke-width="2"/>
+</svg>
