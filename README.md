@@ -79,14 +79,18 @@ The Fan Speed Manager and SonicBoost repositories are not published yet. I'll ad
 
 ---
 
-## 📈 GitHub Activity
-
-The chart below visualizes my public GitHub contributions over the past year. For the complete contribution calendar and activity timeline, visit my [GitHub profile](https://github.com/vd63866).
+## 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/vd63866">
-    <img src="https://ghchart.rshah.org/3B82F6/vd63866" alt="Vaibhav's GitHub contribution chart" width="100%"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vd63866/vd63866/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vd63866/vd63866/output/github-snake.svg"/>
+    <img alt="Animated GitHub contribution graph for Vaibhav" src="https://raw.githubusercontent.com/vd63866/vd63866/output/github-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Automatically regenerated daily with GitHub Actions. You can also run the workflow manually from the Actions tab.</sub>
 </p>
 
 ---
